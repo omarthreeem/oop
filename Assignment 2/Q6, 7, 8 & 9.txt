@@ -1,0 +1,18 @@
+Q6:
+
+a)	The output will be: A’s no-argument constructor is invoked.
+b)	Compilation error since super class (class A) doesn’t have no-argument constructor.
+
+
+Q7:
+Line#5   this.radius=radius;
+Line#20    public B (………)
+Line#21    super(radius);
+Line#22    this.length=length;
+Line#27    return super.getArea() * length;
+
+Q8:
+Overridden
+
+Q9:
+Yes, it will be a syntax error.
