@@ -1,0 +1,7 @@
+Q8:
+To Secure and protect our data.
+Q9:
+Calling a class member with class name is used only with static members while Id isn't static 
+*In the line -> Test.id = 45 ;
+The correct answer is -> this.id = 45;
+M2 is not a static method as well. 
